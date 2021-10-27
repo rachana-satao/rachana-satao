@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Rachana Satao
-- 👀 I’m interested in Technical Writing and Content writing Projects
+- 👋 Hi, I’m Rachana Satao.
+- 👀 I’m interested in Technical Writing and Content Writing Projects.
 
 <!---
 rachana-satao/rachana-satao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
